@@ -1,0 +1,18 @@
+Variables:
+Una variable es la forma en que se pueden almacenar los datos para poder utilizarlos cuando sean necesarios.
+
+Strings:
+Una string es un tipo de variable que contiene una cadena de texto y su contenido se encierra entre comillas simples o dobles (una o la otra, sin mezclarlas).
+
+Funciones:
+Una funcion es un pedazo de codigo que se utiliza para evitar repeticiones ya que otorga un resultado de acuerdo a los parametros recibidos o a la funcion que se desea que cumpla.
+La forma en que devuelve los resultados es mediante el uso de la declaracion return.
+
+Declaraciones:
+Una declaracion es la forma en que se especifica el nombre, tipo y contenido de una dato. Para ello se utiliza un identificador de tipo de dato, un nombre para la misma
+y se le asigna un valor con el operador "=".
+La declaracion de un tipo de dato constante seria de la siguiente forma const nombre = 'contenido'
+
+Valores booleanos:
+Los valores booleanos son un tipo de variable que almacena solo dos posibles tipos de valores, "true" o "false".
+
