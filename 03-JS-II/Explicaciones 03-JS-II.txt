@@ -1,0 +1,9 @@
+for:
+El for es una esctructura de control que realiza un determinado numero de iteraciones
+
+`&&`, `||`, `!`:
+Esos simbolos representan operadores logicos, son simbolos que, junto con preposiciones, dan como 
+resultado un valor de verdad (Verdadero o Falso).
+El operador && devuelve verdadero si todas sus preposiciones son verdaderas.
+El operador || devuelve verdadero si al menos una de sus preposiciones es verdadera.
+El operador ! devuelve el resultado contrario al valor de verdad al que precede. 
