@@ -1,0 +1,4 @@
+Arrays:
+Los arrays o arreglos son un tipo de variable estructurada que puede contener elementos con diferentes tipos
+de datos. Estos se almacenan de forma consecutiva y cada elemento tiene un sub indice que determina la posicion
+que ocupa dentro del arreglo.
